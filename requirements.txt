@@ -13,7 +13,7 @@ drf-yasg==1.20.0
 gunicorn==20.1.0
 idna==2.10
 inflection==0.5.1
-itypegit inits==1.2.0
+itype==1.2.0
 Jinja2==3.0.1
 MarkupSafe==2.0.1
 packaging==20.9
